@@ -10,9 +10,9 @@ layout: default
   <h1>Projects</h1>
   <ul>
     <li><h2>Company Sponsored Hackathon</h2><ul>
-      <li>Group development project focusing on rewarding members for being safe drivers and at home and finding contractors or companies users can go to, covered by/partnered with the sponsoring Company</li>
+      <li>Group development project focusing on rewarding members for being safe drivers and at home and finding contractors or companies users can go to, covered by/partnered with the sponsoring Company.</li>
       <li>Wrote back-end for prototype of product in Java.</li>
-      <li>Utilized APIs provided from the sponsoring Company to obtain quotes</li>
+      <li>Utilized APIs provided from the sponsoring Company to obtain quotes.</li>
     </ul></li>
   </ul>
 </body>
