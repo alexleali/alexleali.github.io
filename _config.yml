@@ -21,7 +21,7 @@
 title: Alexander Leali
 email: aleali@bgsu.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Site for Alexander Leali
+  Software Engineer, Life-long Student of Technology 
 baseurl: "/"
 url: "https://alexleali.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  alexleali
