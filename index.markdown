@@ -5,7 +5,7 @@
 layout: default
 ---
 <body>
-  <div style="max-width:50%; height:auto;display:inline-block;">
+  <div style="max-width:50%; height:auto; display:flex;">
   <img src="res/alexleali.jpg">
   <img src="res/alexleali2.jpg">
   </div>
