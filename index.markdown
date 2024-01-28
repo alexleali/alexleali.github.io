@@ -5,8 +5,10 @@
 layout: default
 ---
 <body>
+  <div style="display:inline-block">
   <img src="res/alexleali.jpg" width="500">
   <img src="res/alexleali2.jpg" width="500">
+  </div>
   <h1>About</h1>
   <p>I am a student at Bowling Green State University and currently pursuing a degree in Software Engineering. I love learning anything about technology and adapting it to solve real world problems. Prior to enrolling in BGSU, I have developed software in Java and Python to learn programming. Ever since I enrolled, I have learned even more important and diverse programing languages and software. As the industry emerges with new software, I am eager to utilize it to it's potential. </p>
   <h1>Projects</h1>
