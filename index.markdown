@@ -10,9 +10,14 @@ layout: default
   <img style="padding:5px; flex=50%;" src="res/alexleali2.jpg">
   </div>
   <h1>About</h1>
-  <p>I am a student at Bowling Green State University and currently pursuing a degree in Computer Science. I love learning anything about technology and adapting it to solve real world problems. Prior to enrolling in BGSU, I have developed software in Java and Python to learn programming. Ever since I enrolled, I have learned even more important and diverse programing languages and software. As the industry emerges with new software, I am eager to utilize it to its potential. </p>
+  <p>I am an individual who is passionate about the world of Computer Science and software. I love learning anything about technology and adapting it to solve real world problems. Primarly, I develop software in Java and Python to learn programming. However, I can learn and  even adapt to more important and diverse programing languages and software, such as Javascript and C. As the industry emerges with new software, I am eager to utilize it to its potential. </p>
   <h1>Projects</h1>
   <ul>
+    <li><h2>Frontend Develpoper, Capstone Project, Fall 2025</h2>h</li>
+      <li>Programmed dynamic web interface.</li>
+      <li>Investigated importance of statistics to end users to prioritize UI.</li>
+      <li>Co-authored UI and Collaborated with team members and customer.</li>
+    </ul></li>
     <li><h2>Lead Engineer, Academic Refactoring Software Project, 11/23 - 12/23</h2><ul>
       <li>Planned tasks for group members, labeled appropriately to refactoring specifications.</li>
       <li>Recommended tasks to group members based on their skills and interests.</li>
