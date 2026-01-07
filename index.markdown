@@ -12,7 +12,7 @@ layout: default
   <h1>About</h1>
   <p>I am an individual who is passionate about the world of computer science and software. I love learning anything about technology and adapting it to solve real world problems. Primarily, I develop software in Java and Python to learn programming. However, I can learn and even adapt to more important and diverse programming languages and software, such as JavaScript and C. As the industry emerges with new software, I am eager to utilize it to its potential. </p>
   <h1>Contact</h1>
-  <p>Email: <a href="mailto:aleali@bgsu.edu">aleali@bgsu.edu</a></p>
+  <p>Email: <a href="mailto:alex.r.leali@gmail.com">alex.r.leali@gmail.com</a></p>
   <p>LinkedIn: <a href="https://www.linkedin.com/in/alexander-leali-699a04233/">Alexander Leali</a></p>
   <h1>Projects</h1>
   <ul>
