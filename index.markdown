@@ -21,11 +21,15 @@ layout: default
       <li>Investigated importance of statistics to end users to prioritize UI.</li>
       <li>Co-authored UI and Collaborated with team members and customer.</li>
     </li>
+  </ul>
+  <ul>
     <li><h2>Lead Engineer, Academic Refactoring Software Project, 11/23 - 12/23</h2><ul>
       <li>Planned tasks for group members, labeled appropriately to refactoring specifications.</li>
       <li>Recommended tasks to group members based on their skills and interests.</li>
       <li>Adapted refactorings to code and pull requests into main code branch.</li>
     </li>
+  </ul>
+  <ul>
     <li><h2>Backend Engineer, Company Sponsored Hackathon, 02/22 - 04/22</h2><ul>
       <li>Group development project focusing on rewarding members for being safe drivers and at home and finding contractors or companies users can go to, covered by/partnered with the sponsoring Company.</li>
       <li>Wrote back-end for prototype of product.</li>
