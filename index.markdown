@@ -17,11 +17,11 @@ layout: default
   <h1>Projects</h1>
   <div>
     <ul>
-      <li><h2>Front-end Developer, Capstone Project, 9/25 - 12/25 </h2></li>
+      <li><h2>Front-end Developer, Capstone Project, 9/25 - 12/25 </h2></li><ul>
       <li>Programmed dynamic web interface.</li>
       <li>Investigated importance of statistics to end users to prioritize UI.</li>
       <li>Co-authored UI and Collaborated with team members and customer.</li>
-    </ul>
+    </ul></ul>
   </div>
   <div>
     <ul>
