@@ -25,18 +25,18 @@ layout: default
   </div>
   <div>
     <ul>
-      <li><h2>Lead Engineer, Academic Refactoring Software Project, 11/23 - 12/23</h2></li>
+      <li><h2>Lead Engineer, Academic Refactoring Software Project, 11/23 - 12/23</h2></li><ul>
       <li>Planned tasks for group members, labeled appropriately to refactoring specifications.</li>
       <li>Recommended tasks to group members based on their skills and interests.</li>
       <li>Adapted refactorings to code and pull requests into main code branch.</li>
-    </ul>
+    </ul></ul>
   </div>
   <div>
     <ul>
-      <li><h2>Backend Engineer, Company Sponsored Hackathon, 02/22 - 04/22</h2></li>
+      <li><h2>Backend Engineer, Company Sponsored Hackathon, 02/22 - 04/22</h2></li>><ul>
       <li>Group development project focusing on rewarding members for being safe drivers and at home and finding contractors or companies users can go to, covered by/partnered with the sponsoring Company.</li>
       <li>Wrote back-end for prototype of product.</li>
       <li>Utilized APIs provided from the sponsoring Company to obtain quotes.</li>
-    </ul>
+    </ul></ul>
   </div>  
 </body>
