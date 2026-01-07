@@ -15,25 +15,29 @@ layout: default
   <p>Email: <a href="mailto:alex.r.leali@gmail.com">alex.r.leali@gmail.com</a></p>
   <p>LinkedIn: <a href="https://www.linkedin.com/in/alexander-leali-699a04233/">Alexander Leali</a></p>
   <h1>Projects</h1>
-  <ul>
-    <li><h2>Front-end Developer, Capstone Project, 9/25 - 12/25 </h2></li>
+  <div>
+    <ul>
+      <li><h2>Front-end Developer, Capstone Project, 9/25 - 12/25 </h2></li>
       <li>Programmed dynamic web interface.</li>
       <li>Investigated importance of statistics to end users to prioritize UI.</li>
       <li>Co-authored UI and Collaborated with team members and customer.</li>
-    </li>
-  </ul>
-  <ul>
-    <li><h2>Lead Engineer, Academic Refactoring Software Project, 11/23 - 12/23</h2><ul>
+    </ul>
+  </div>
+  <div>
+    <ul>
+      <li><h2>Lead Engineer, Academic Refactoring Software Project, 11/23 - 12/23</h2><li>
       <li>Planned tasks for group members, labeled appropriately to refactoring specifications.</li>
       <li>Recommended tasks to group members based on their skills and interests.</li>
       <li>Adapted refactorings to code and pull requests into main code branch.</li>
-    </li>
-  </ul>
-  <ul>
-    <li><h2>Backend Engineer, Company Sponsored Hackathon, 02/22 - 04/22</h2><ul>
+    </ul>
+  </div>
+  <div>
+    <ul>
+      <li><h2>Backend Engineer, Company Sponsored Hackathon, 02/22 - 04/22</h2></li>
       <li>Group development project focusing on rewarding members for being safe drivers and at home and finding contractors or companies users can go to, covered by/partnered with the sponsoring Company.</li>
       <li>Wrote back-end for prototype of product.</li>
       <li>Utilized APIs provided from the sponsoring Company to obtain quotes.</li>
-   </li>
-  </ul>
+    </ul>
+  </div>
+  
 </body>
