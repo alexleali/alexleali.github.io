@@ -25,7 +25,7 @@ layout: default
   </div>
   <div>
     <ul>
-      <li><h2>Lead Engineer, Academic Refactoring Software Project, 11/23 - 12/23</h2><li>
+      <li><h2>Lead Engineer, Academic Refactoring Software Project, 11/23 - 12/23</h2></li>
       <li>Planned tasks for group members, labeled appropriately to refactoring specifications.</li>
       <li>Recommended tasks to group members based on their skills and interests.</li>
       <li>Adapted refactorings to code and pull requests into main code branch.</li>
@@ -38,6 +38,5 @@ layout: default
       <li>Wrote back-end for prototype of product.</li>
       <li>Utilized APIs provided from the sponsoring Company to obtain quotes.</li>
     </ul>
-  </div>
-  
+  </div>  
 </body>
