@@ -10,10 +10,13 @@ layout: default
   <img style="padding:5px; flex=50%;" src="res/alexleali2.jpg">
   </div>
   <h1>About</h1>
-  <p>I am an individual who is passionate about the world of Computer Science and software. I love learning anything about technology and adapting it to solve real world problems. Primarly, I develop software in Java and Python to learn programming. However, I can learn and  even adapt to more important and diverse programing languages and software, such as Javascript and C. As the industry emerges with new software, I am eager to utilize it to its potential. </p>
+  <p>I am an individual who is passionate about the world of computer science and software. I love learning anything about technology and adapting it to solve real world problems. Primarily, I develop software in Java and Python to learn programming. However, I can learn and even adapt to more important and diverse programming languages and software, such as JavaScript and C. As the industry emerges with new software, I am eager to utilize it to its potential. </p>
+  <h1>Contact</h1>
+  <p>Email: <a href="mailto:aleali@bgsu.edu">aleali@bgsu.edu</a></p>
+  <p>LinkedIn: <a href="https://www.linkedin.com/in/alexander-leali-699a04233/">Alexander Leali</a></p>
   <h1>Projects</h1>
   <ul>
-    <li><h2>Frontend Develpoper, Capstone Project, Fall 2025</h2>h</li>
+    <li><h2>Front-end Developer, Capstone Project, 9/25 - 12/25 </h2></li>
       <li>Programmed dynamic web interface.</li>
       <li>Investigated importance of statistics to end users to prioritize UI.</li>
       <li>Co-authored UI and Collaborated with team members and customer.</li>
