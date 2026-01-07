@@ -33,7 +33,7 @@ layout: default
   </div>
   <div>
     <ul>
-      <li><h2>Backend Engineer, Company Sponsored Hackathon, 02/22 - 04/22</h2></li>><ul>
+      <li><h2>Backend Engineer, Company Sponsored Hackathon, 02/22 - 04/22</h2></li><ul>
       <li>Group development project focusing on rewarding members for being safe drivers and at home and finding contractors or companies users can go to, covered by/partnered with the sponsoring Company.</li>
       <li>Wrote back-end for prototype of product.</li>
       <li>Utilized APIs provided from the sponsoring Company to obtain quotes.</li>
